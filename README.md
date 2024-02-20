@@ -1,1 +1,4 @@
-# aws-cloudfront-for-static-web-app
+# AWS CloudForamtion Template example for static web pages
+
+
+
